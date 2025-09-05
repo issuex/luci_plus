@@ -6,11 +6,11 @@
 ### Focus on
 - Dark theme.
 - Clean design.
-- Lightweight but prioritizes clean design.
-- CSS pixel base design.
+- use Color to prioritize.
+- Width base design (CSS pixel base), indirect mobile support.
+- mostly used on Firefox
 - CSS nesting for better managment
-- Width base design, indirect mobile support.
-- tested on firefox
+- stack on original css
 
 ### Install for OpenWrt 24.10.2
 ```
